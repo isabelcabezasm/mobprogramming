@@ -28,7 +28,7 @@ Fizz <br>
 Buzz <br>
 ... etc up to 100 <br>
 
-## Refactor
+### Refactor (2nd stage)
 Now without "if"!!
 
 ## Random list
