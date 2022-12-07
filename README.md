@@ -6,28 +6,30 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 Sample output:
 
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-16
-17
-Fizz
-19
-Buzz
-... etc up to 100
+1 <br>
+2 <br>
+Fizz <br>
+4 <br>
+Buzz <br>
+Fizz <br>
+7 <br>
+8 <br>
+Fizz <br>
+Buzz <br>
+11 <br>
+Fizz <br>
+13 <br> 
+14 <br>
+FizzBuzz <br>
+16 <br>
+17 <br>
+Fizz <br>
+19 <br>
+Buzz <br>
+... etc up to 100 <br>
 
+## Refactor
+Now without "if"!!
 
 ## Random list
 
