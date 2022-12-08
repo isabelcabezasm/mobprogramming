@@ -1,16 +1,22 @@
 ﻿namespace mobprogramming
 {
-
-    public void main()
-    { 
+    class Program
+    {
+        public static void Main()
+        { 
         
     
+        }
     }
+    
+
+
 
     public class Fizzbuzz
     {
-        public Fizzbuzz(int number)
+        public List<string> Run(int number)
         {
+            return new List<string>();
         }
     }
 
